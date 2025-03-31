@@ -3,7 +3,6 @@ import java.util.ArrayList;
 public class ListaProductos {
 
     private ArrayList<Producto> arrayListProducto = new ArrayList();
-    private ArrayList<Cliente> arrayListCliente = new ArrayList();
 
     // Crear lista productos
 
@@ -27,10 +26,6 @@ public class ListaProductos {
                 System.out.println(p);
             }
         }
-    }
-
-    public void listaClientes(){
-        arrayListCliente = new ArrayList();
     }
 
 
