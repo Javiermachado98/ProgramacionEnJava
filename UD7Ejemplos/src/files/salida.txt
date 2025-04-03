@@ -1,4 +1,0 @@
-gallina
-vaca
-oveja
-animal
